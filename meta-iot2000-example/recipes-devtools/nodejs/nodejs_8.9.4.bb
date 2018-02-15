@@ -5,7 +5,7 @@ INC_PR = "r1"
 
 LIC_FILES_CHKSUM = "file://LICENSE;md5=270f7477a1705f7cd3e29d3d4512915d"
 
-SRC_URI = "https://nodejs.org/dist/v${PV}/node-v${PV}.tar.gz;name=src \"
+SRC_URI = "https://nodejs.org/dist/v${PV}/node-v${PV}.tar.gz;name=src \
            file://0001-nodejs-add-compile-flag-options-for-quark.patch"
 
 SRC_URI[src.md5sum] = "4ddc1daff327d7e6f63da57fdfc24f55"
