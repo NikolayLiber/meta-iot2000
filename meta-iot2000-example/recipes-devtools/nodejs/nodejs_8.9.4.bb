@@ -1,4 +1,4 @@
-require recipes-devtools/nodejs/nodejs_7.inc
+require recipes-devtools/nodejs/nodejs_8.inc
 require recipes-devtools/nodejs/nodejs_lts.inc
 
 INC_PR = "r1"
