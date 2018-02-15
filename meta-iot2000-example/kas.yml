@@ -18,7 +18,7 @@ repos:
 
   meta-nodejs:
     url: https://github.com/NikolayLiber/meta-nodejs.git
-    refspec: b5d47ca7237dd3f5b4c85f4ef3b330bdfa8fca8f
+    refspec: 613957797a1971ee6c8a45551f93f82586b7641e
 
 local_conf_header:
   package_ipk: |
